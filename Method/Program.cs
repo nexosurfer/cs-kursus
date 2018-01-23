@@ -12,6 +12,7 @@ namespace Method
         {
 
 
+            int res = Lægsammen(4, 6);
 
 
 
