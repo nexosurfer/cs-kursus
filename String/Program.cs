@@ -33,7 +33,7 @@ namespace String
                 Console.WriteLine(navne[i]);
 
             Console.WriteLine(fornavn + "\r\n\t" + efternavn);
-            System.IO.File.WriteAllText("c:\\temp\\test.txt", samletNavn);            
+            // System.IO.File.WriteAllText("c:\\S-FIL-V\\HomeFolderIT\\NHP41\\Beta-test\\C-sharp\\test.txt", samletNavn);            
 
 
             if (System.Diagnostics.Debugger.IsAttached)
