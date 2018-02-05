@@ -13,6 +13,8 @@ namespace SimpelKlasse
             p1.Birthday = 1975;
             Console.WriteLine(p1.FuldtNavn());
             Console.WriteLine(p1.EstimeretAlder());
+            Person p2 = new Person("a", "b", 2000);
+            Console.WriteLine(p2.FuldtNavn());
             Console.ReadKey();
 
 
