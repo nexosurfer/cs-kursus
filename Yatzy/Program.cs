@@ -11,7 +11,7 @@ namespace Yatzy
         static void Main(string[] args)
         {
 
-            YatzyApp1.Terning t1 = new YatzyApp1.Terning();
+            TerningApp1.Terning t1 = new TerningApp1.Terning();
             //t1.Skriv();
             //t1.Værdi = 4;
             //t1.Skriv();
@@ -31,7 +31,7 @@ namespace Yatzy
             //t1.Ryst(true);
             //t1.Skriv();
 
-            YatzyApp1.Bæger res = new YatzyApp1.Bæger();
+            TerningApp1.Bæger res = new TerningApp1.Bæger();
             res.Skriv();
                         
             //Console.ReadKey();

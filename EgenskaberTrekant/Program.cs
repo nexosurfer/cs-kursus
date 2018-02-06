@@ -7,10 +7,8 @@ namespace EgenskaberTrekant
         static void Main(string[] args)
         {
 
-            Trekant a = new Trekant();
-            
-            
-                       
+              
+                                   
         }
     }
 }
@@ -19,6 +17,7 @@ public class Trekant
     public int Grundlinje { get; private set; }
     public int Højde { get; private set; }
 
+    // Custom Constructor
     public Trekant(int grundlinje, int højde)
     {
         this.Grundlinje = grundlinje;

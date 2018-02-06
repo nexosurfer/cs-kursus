@@ -22,6 +22,8 @@ namespace EgenskaberPerson
         private string efternavn;
 
         public string Efternavn
+
+        //kode her også...
         {
             get { return efternavn; }
             set

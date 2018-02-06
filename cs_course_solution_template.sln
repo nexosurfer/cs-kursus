@@ -47,15 +47,21 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method", "Method\Method.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beginner", "Beginner\Beginner.csproj", "{50DCEF4D-A742-4B37-8197-B1F052AF34A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpelKlasse", "SimpelKlasse\SimpelKlasse.csproj", "{092ADAAD-B0F5-4D47-B788-67CAE9A27737}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpelKlasse", "SimpelKlasse\SimpelKlasse.csproj", "{092ADAAD-B0F5-4D47-B788-67CAE9A27737}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yatzy", "Yatzy\Yatzy.csproj", "{99F44F31-7F6F-4C48-842F-8F5667736AB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yatzy", "Yatzy\Yatzy.csproj", "{99F44F31-7F6F-4C48-842F-8F5667736AB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgenskaberPerson", "EgenskaberPerson\EgenskaberPerson.csproj", "{A50C1697-1E99-489B-942F-13351AB2E9B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EgenskaberPerson", "EgenskaberPerson\EgenskaberPerson.csproj", "{A50C1697-1E99-489B-942F-13351AB2E9B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgenskaberTrekant", "EgenskaberTrekant\EgenskaberTrekant.csproj", "{67699FFB-0D5A-4730-A85C-D029413CC6DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EgenskaberTrekant", "EgenskaberTrekant\EgenskaberTrekant.csproj", "{67699FFB-0D5A-4730-A85C-D029413CC6DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatiskeMetoder", "StatiskeMetoder\StatiskeMetoder.csproj", "{0B7340DD-FE68-47B7-BCB7-5F2069BDCEC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StatiskeMetoder", "StatiskeMetoder\StatiskeMetoder.csproj", "{0B7340DD-FE68-47B7-BCB7-5F2069BDCEC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgenskaberVare", "EgenskaberVare\EgenskaberVare.csproj", "{A4126292-7527-4B72-928D-4F2AF75A0CA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arv", "Arv\Arv.csproj", "{E6922547-FFE4-426C-AEE3-F014EB2ECC9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArvRandom", "ArvRandom\ArvRandom.csproj", "{AC4FD76C-9401-4669-9148-825719D573AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -163,6 +169,18 @@ Global
 		{0B7340DD-FE68-47B7-BCB7-5F2069BDCEC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B7340DD-FE68-47B7-BCB7-5F2069BDCEC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B7340DD-FE68-47B7-BCB7-5F2069BDCEC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4126292-7527-4B72-928D-4F2AF75A0CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4126292-7527-4B72-928D-4F2AF75A0CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4126292-7527-4B72-928D-4F2AF75A0CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4126292-7527-4B72-928D-4F2AF75A0CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6922547-FFE4-426C-AEE3-F014EB2ECC9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6922547-FFE4-426C-AEE3-F014EB2ECC9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6922547-FFE4-426C-AEE3-F014EB2ECC9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6922547-FFE4-426C-AEE3-F014EB2ECC9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC4FD76C-9401-4669-9148-825719D573AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4FD76C-9401-4669-9148-825719D573AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4FD76C-9401-4669-9148-825719D573AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4FD76C-9401-4669-9148-825719D573AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -193,6 +211,9 @@ Global
 		{A50C1697-1E99-489B-942F-13351AB2E9B7} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
 		{67699FFB-0D5A-4730-A85C-D029413CC6DA} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
 		{0B7340DD-FE68-47B7-BCB7-5F2069BDCEC5} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
+		{A4126292-7527-4B72-928D-4F2AF75A0CA0} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
+		{E6922547-FFE4-426C-AEE3-F014EB2ECC9D} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
+		{AC4FD76C-9401-4669-9148-825719D573AB} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A5354BDA-3E12-4F48-8A32-DAFA5BEC4AA4}

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace YatzyApp1
+namespace TerningApp1
 {
     public class Terning
     {
