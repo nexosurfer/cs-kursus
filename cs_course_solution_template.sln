@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArvRandom", "ArvRandom\ArvR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorfiDyr", "PolymorfiDyr\PolymorfiDyr.csproj", "{BC902841-808A-4368-A9D1-96EDC6E5D91E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NedarvingOgPolymporfi", "NedarvingOgPolymporfi\NedarvingOgPolymporfi.csproj", "{340CE65A-CEB0-4366-8AC5-CFBE9CAFD07B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -187,6 +189,10 @@ Global
 		{BC902841-808A-4368-A9D1-96EDC6E5D91E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC902841-808A-4368-A9D1-96EDC6E5D91E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC902841-808A-4368-A9D1-96EDC6E5D91E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{340CE65A-CEB0-4366-8AC5-CFBE9CAFD07B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340CE65A-CEB0-4366-8AC5-CFBE9CAFD07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340CE65A-CEB0-4366-8AC5-CFBE9CAFD07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340CE65A-CEB0-4366-8AC5-CFBE9CAFD07B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -221,6 +227,7 @@ Global
 		{E6922547-FFE4-426C-AEE3-F014EB2ECC9D} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
 		{AC4FD76C-9401-4669-9148-825719D573AB} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
 		{BC902841-808A-4368-A9D1-96EDC6E5D91E} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
+		{340CE65A-CEB0-4366-8AC5-CFBE9CAFD07B} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A5354BDA-3E12-4F48-8A32-DAFA5BEC4AA4}
