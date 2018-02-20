@@ -26,9 +26,10 @@ namespace Collection
             Dictionary<int, Person> row2 = new Dictionary<int, Person>();
             row2.Add(1, new Person() { Id = 1, Navn = "Mads" });
             row2.Add(2, new Person() { Id = 2, Navn = "Ida" });
-            row2.Add(3,new Person() { Id = 3, Navn = "Emil" });
+            row2.Add(3, new Person() { Id = 3, Navn = "Emil" });
             var p = row2[3];
             Console.WriteLine(p.Navn);
+                        
         }
     }
 
