@@ -20,7 +20,7 @@ namespace FileWatch
         private static void W_Changed(object sender, System.IO.FileSystemEventArgs e)
 
         {
-            Console.WriteLine(e.Name + "Filen er rettet!");            
+            Console.WriteLine(e.Name + "\nFilen er rettet!");            
         }
         
     }
