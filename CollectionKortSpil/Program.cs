@@ -18,6 +18,7 @@ namespace CollectionKortSpil
             b.Tilføjkort(new Kort() { Kulør = "Spar", Værdi = 10 });
             b.Tilføjkort(new Kort() { Kulør = "Hjerter", Værdi = 5 });
             b.Tilføjkort(new Kort() { Kulør = "Ruder", Værdi = 7 });
+            b.Tilføjkort(new Kort() { Kulør = "Ruder", Værdi = 5 });
             b.Vis();
 
             var k = b.FjernKort();
